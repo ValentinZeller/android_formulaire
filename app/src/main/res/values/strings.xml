@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ZELLER:Formulaire</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="ludus">ludus-academie.com</string>
+    <string name="F">F</string>
+    <string name="H">H</string>
+    <string name="langage_de_programmation">Langage de programmation</string>
+    <string name="java">Java</string>
+    <string name="cplus">C++</string>
+    <string name="javascript">Javascript</string>
+    <string name="image">waluigi</string>
+    <string name="heure">Heure de jeu</string>
+    <string name="raz">RAZ</string>
+    <string name="valider">Valider</string>
+    <string name="editHeure">heure</string>
+    <string name="emailLabel">Email</string>
+    <string name="aleatoire">Aléatoire</string>
+    <string name="genre">Genre</string>
+    <string name="reception">Réception</string>
+</resources>
